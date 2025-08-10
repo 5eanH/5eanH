@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **seanph1302@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/5ean-h/Portfolio](https://github.com/5ean-h/Portfolio)
+- 📄 Know about my experiences [https://github.com/5eanH/Portfolio](https://github.com/5eanH/Portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
