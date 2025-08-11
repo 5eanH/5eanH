@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a personal game project](https://github.com/5eanH/Test-Project)
 
-- 🌱 I’m currently studying **Games Design and Development**
+- 🌱 I’m a graduate in **BSc (Hons) Games Design and Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/5eanH/Portfolio](https://github.com/5eanH/Portfolio)
 
